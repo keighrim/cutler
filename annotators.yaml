@@ -1,0 +1,10 @@
+credentials:
+  usernames:
+    jdoe:
+      email: email@john.doe
+      name: John Doe
+      password: passw
+cookie:
+  expiry_days: 0
+  key: cutler_cookie_key
+  name: cutler_cookie

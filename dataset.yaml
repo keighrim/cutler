@@ -1,0 +1,5 @@
+annotators: []
+annotatorsPerDocument: 2
+assignments: {}
+batchSize: 10
+datasetDirectory: dataset
